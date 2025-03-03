@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there I'm Bilal 👋
+- 🔭 I’m currently working on google
+- 🌱 I’m currently learning development
+- 📫 How to reach me: ciftecibilal@gmail.com
 <!--
 **BilalCifteci/BilalCifteci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
